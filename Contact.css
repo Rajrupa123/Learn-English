@@ -1,0 +1,131 @@
+body{
+    margin:0;
+    padding:0;
+    background-image: url(./More_Info_BG1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+}
+.heading{
+    position: absolute;
+   margin-left: 220px;
+   margin-top:10px;
+ }
+ #Name
+ {
+     position: absolute;
+     margin-left: 50px;
+     margin-top: 20px;
+ }
+ .text{
+     position: absolute;
+     margin-top: 52px;
+     width: 420px;
+     margin-left: 50px;
+ }
+ #Email
+ {
+     position: absolute;
+     margin-left: 50px;
+     margin-top: 80px;
+ }
+ .text1{
+     position: absolute;
+     margin-top: 112px;
+     width: 420px;
+    margin-left: 50px
+ }
+ #Phone{
+     position: absolute;
+     margin-left: 50px;
+     margin-top: 140px;
+ }
+ .text2{
+     position: absolute;
+     margin-top: 172px;
+     width: 420px;
+     margin-left: 50px;
+ }
+ #Subject{
+    position: absolute;
+    margin-left: 50px;
+    margin-top: 210px;
+}
+.text3{
+    position: absolute;
+    margin-top: 232px;
+    width: 420px;
+    margin-left: 50px;
+}
+#Message{
+    position: absolute;
+    margin-left: 50px;
+    margin-top: 280px;
+}
+#text4{
+    position: absolute;
+    margin-top:312px;
+    width: 420px;
+    margin-left: 50px;
+}
+#Submit{
+    position: absolute;
+    margin-left: 140px;
+    margin-top: 520px;
+    border: 2px solid black;
+    width: 220px;
+    text-align: center;
+    color: white;
+    background-color: black;
+    
+}
+.red-star {
+    color: red;
+}
+.contactus{
+    position:absolute;
+    margin-top:180px;
+    margin-left: -30px;
+}
+form{
+    
+    width:560px;
+    height:608px;
+    background-image: url(./Contact1..jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.sigin{
+    position:absolute;
+    margin-left:920px;
+    border: 2px solid black;
+    margin-top:6px;
+    width: 100px;
+    text-align: center;
+    border-radius: 8px;
+    background-color: #42A5F5;
+    cursor: pointer;
+}
+.sigin:hover,.support:hover{
+    background-color: rgb(61, 61, 180);
+}
+.support{
+    position:absolute;
+    margin-left:1090px;
+    border: 2px solid black;
+    margin-top: 6px;
+    width: 100px;
+    text-align: center;
+    border-radius: 8px;
+     background-color: #42A5F5;
+     cursor: pointer;
+}
+form{
+    border: 2px solid black;
+    position: absolute;
+    margin-left: 320px;
+    height: 570px;
+    margin-top: 12px;
+    border-radius: 30px;
+}

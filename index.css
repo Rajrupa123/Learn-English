@@ -1,0 +1,375 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  background-image: url(./More_Info_BG1.jpg);
+  background-repeat: no-repeat;
+  background-size: 5000px;
+}
+header{
+  background-color: black;
+  height:60px;
+  color: #d86a90;
+  font-family: 'IM Fell English SC', serif;
+  font-size:25px;
+  text-align:center;
+  
+}
+
+.BG1{
+  background-color:#e02363;
+  height:90px;
+
+ 
+}
+.nav1{
+  background-color:yellow;
+  display:flex;
+  justify-content:center;
+  
+}
+.nav1 ul li a{
+  text-decoration:none;
+}
+.nav1 ul li{
+  list-style-type:none;
+  float:left;
+  margin:20px;
+}
+.box1{
+  /*border: 2px solid black;*/
+  width:520px;
+  height:420px;
+  margin:40px;
+  background-color:rgb(152, 230, 230);
+  
+}
+.img1{
+  text-align: center;
+  padding: 22px;
+  position:absolute;
+  margin-top:2px;
+  margin-left:119px;
+}
+.box2{
+  /*border: 2px solid black;*/
+  width:520px;
+  height:420px;
+  margin:20px;
+  position:absolute;
+  margin-top: -460px;
+  margin-left:720px;
+  background-color:rgb(152, 230, 230);
+  
+}
+.box_1{
+ /*border: 2px solid black;*/
+  width: 290px;
+  height: 420px;
+  background-color:#EF9A9A;
+}
+.box_2{
+ /*border: 2px solid black;*/
+  width: 290px;
+  height: 420px;
+  position: absolute;
+  margin-left: 460px;
+  margin-top: -425px;
+  background-color:rgb(139, 139, 216);
+}
+
+
+.box_3{
+  /*border: 2px solid black;*/
+  width: 290px;
+  height: 420px;
+  position: absolute;
+  margin-left: 960px;
+  margin-top: -425px;
+  background-color:rgb(192, 214, 170);
+}
+.box_4{
+ /*border: 2px solid black;*/
+  width: 290px;
+  height: 420px;
+  position: absolute;
+  margin-top: 40px;
+  background-color:#FFF176;
+ 
+}
+
+.img_1{
+  position:absolute;
+  margin-left:45px;
+  margin-top:50px;
+}
+.img_2{
+  position:relative;
+  margin-left:35px;
+  margin-top:20px;
+
+}
+.img_3{
+  position:relative;
+  margin-left:35px;
+  margin-top:20px;
+}
+.img_4{
+  position:relative;
+  margin-left:50px;
+  margin-top:20px;
+}
+.img_5{
+  position:relative;
+  margin-left:80px;
+  margin-top:1px;
+}
+.img_6{
+  position:relative;
+  margin-left:35px;
+  margin-top:20px;
+}
+.box_5{
+/*border: 2px solid black;*/
+  width: 290px;
+  height: 420px;
+  position: absolute;
+  margin-top: 40px;
+  margin-left: 460px;
+  background-color:aquamarine;
+}
+.box_6{
+ /*border: 2px solid black;*/
+ 
+  width: 290px;
+  height: 420px;
+  position: absolute;
+  margin-top: 40px;
+  margin-left: 960px;
+  background-color:rgb(231, 147, 192);
+
+  
+}
+footer { position: absolute; margin-top: 520px; width: 1263px; height:90px;
+  background-color:black ;
+  color:white;}
+  .img2{
+    position:absolute;
+    margin-top:160px;
+    margin-left:130px;
+    
+  }
+  #text_1{
+    font-weight:bold;
+    text-align: center;
+    font-family: 'IM Fell English SC', serif;
+    margin-top: 12px;
+    margin-left:72px;
+    position:absolute;
+  }
+  #text_2, #text_3, #text_4, #text_5, #text_6{
+    font-weight:bold;
+    text-align: center;
+    font-family: 'IM Fell English SC', serif;
+    margin-top: 12px;
+  }
+  #desc_6{
+    position:absolute;
+    margin-top:200px;
+    text-align:center;
+    margin-left:6px;
+    padding:15px;
+    border:5px solid white;
+    width:239px;
+    height:120px;
+    border-radius:15px;
+    background-color:antiquewhite;
+    color:#00116e;
+    font-size:15px;
+  }
+  #desc_5{
+     position:absolute;
+    margin-top:200px;
+    text-align:center;
+    margin-left:6px;
+    padding:15px;
+    border:5px solid white;
+    width:239px;
+    height:120px;
+    border-radius:15px;
+    background-color:antiquewhite;
+    color:#00116e;
+    font-size:15px;
+}
+#desc_4{
+     position:absolute;
+    margin-top:200px;
+    text-align:center;
+    margin-left:6px;
+    padding:15px;
+    border:5px solid white;
+    width:239px;
+    height:120px;
+    border-radius:15px;
+    background-color:antiquewhite;
+    color:#00116e;
+    font-size:15px;
+}
+#desc_3{
+  position:absolute;
+ margin-top:200px;
+ text-align:center;
+ margin-left:6px;
+ padding:15px;
+ border:5px solid white;
+ width:239px;
+ height:120px;
+ border-radius:15px;
+ background-color:antiquewhite;
+ color:#00116e;
+ font-size:15px;
+}
+#desc_2{
+  position:absolute;
+ margin-top:200px;
+ text-align:center;
+ margin-left:6px;
+ padding:15px;
+ border:5px solid white;
+ width:239px;
+ height:120px;
+ border-radius:15px;
+ background-color:antiquewhite;
+ color:#00116e;
+ font-size:15px;
+}
+#desc_1{
+  position:absolute;
+ margin-top:240px;
+ text-align:center;
+ margin-left:6px;
+ padding:15px;
+ border:5px solid white;
+ width:239px;
+ height:120px;
+ border-radius:15px;
+ background-color:antiquewhite;
+ color:#00116e;
+ font-size:15px;
+}
+#noveldesc{
+  position:absolute;
+  margin-top:250px;
+  padding:20px;
+  border:6px solid white;
+  background-color:aqua;
+  width:420px;
+  border-radius:16px;
+  margin-left:24px;
+}
+#grammardesc{
+  position:absolute;
+  margin-top:28px;
+  border:6px solid white;
+  width:420px;
+  padding:20px;
+  background-color:aqua;
+  border-radius:16px;
+  margin-left:23px;
+}
+strong{
+  color:aliceblue;
+  font-family: 'Lobster', cursive;
+  font-size:40px;
+  position:absolute;
+  margin-top:22px;
+}
+.BG1_desc{
+  color: wheat;
+  font-family: 'Sriracha', cursive;
+  width:550px;
+  position:absolute;
+  margin-left:640px;
+  padding:20px;
+  margin-top:-10px;
+  font-size:22px;
+
+
+}
+.foot1{
+  position:absolute;
+  margin-left:520px;
+  font-family: 'Abril Fatface', cursive;
+}
+.fa-facebook {
+  background: #3F51B5;
+  color: white;
+}
+.fa-twitter {
+  background: #00BCD4;
+  color: white;
+}
+.fa-linkedin {
+  background: #9C27B0;
+  color: white;
+}
+.fa-instagram {
+  background: #E91E63;
+  color: white;
+}
+.facebook{
+  font-size:32px;
+  position:absolute;
+  margin-left:380px;
+  margin-top:40px;
+}
+.instagram{
+  font-size:32px;
+  margin-left:480px;
+  margin-top:40px;
+}
+.linkedin{
+  font-size:32px;
+  margin-left:580px;
+  margin-top:-37px;
+}
+.twitter{
+  font-size:32px;
+  margin-left:680px;
+  margin-top:-37px;
+}
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+.youtube{
+  font-size:32px;
+  margin-left:780px;
+  margin-top:-37px;
+}
+.title{
+  text-align: center;
+  border:2px solid red;
+  width:220px;
+  height:28px;
+  border-radius:20px;
+  background-color:#FFEB3B;
+  color:red;
+  font-weight:bold;
+  position:absolute;
+  margin-left:520px;
+}
+#text_1_desc{
+  font-family: 'IM Fell English SC', serif;
+  font-weight:bold;
+  position:absolute;
+  margin-left:230px;
+  }
+  #text_2_desc{
+    font-family: 'IM Fell English SC', serif;
+    position:absolute;
+    margin-left:230px;
+    font-weight:bold;
+  }
+  
